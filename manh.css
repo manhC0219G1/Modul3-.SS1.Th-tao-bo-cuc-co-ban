@@ -1,0 +1,22 @@
+.main {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: green;
+}
+.navbar{
+    text-align: center;
+    color: blue;
+    position: fixed;
+    top:0;
+    width: 100%;
+    font-size: 20px;
+;
+}
+h1{
+    color: red;
+    font-style: italic;
+} h2{
+    color: black;
+    font-style: normal;
+  }
